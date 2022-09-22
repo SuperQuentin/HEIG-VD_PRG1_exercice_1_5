@@ -4,6 +4,7 @@ using namespace std;
 
 
 int main() {
+    // Tcheu ce changement !
     // TODO : Take input instead of declaring variable
     float distanceInKm = 17.5; // Echallens -> Yverdon HEIG-VD
     float trainTicketPrice = 4.6; // Trajet simple avec demi-tarif
